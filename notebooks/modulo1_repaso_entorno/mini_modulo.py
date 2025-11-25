@@ -1,3 +1,5 @@
+
+
 def cuadrado(n):
     return n * n
 

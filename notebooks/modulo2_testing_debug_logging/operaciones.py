@@ -6,4 +6,5 @@ def dividir(a, b):
         raise ValueError("No se puede dividir por cero")
     return a / b
 
+def es_par(n,)
 print("operaciones.py creado")
